@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Mealplancard from "../../components/MealPlanCard/MealPlanCard.jsx";
 import FullPageSpinner from "../../components/FullPageSpinner.jsx";
-import "./mealplan.css";
+import "./Mealplan.css";
 
 const MealPlan = ({handleAddToCart}) => {
   const [meals, setMeals] = useState([]);
