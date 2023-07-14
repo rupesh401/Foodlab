@@ -1,0 +1,6 @@
+2022-12-13 17:49:32 info [server.js]: Server is running at 3000 
+2022-12-13 17:49:32 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-13 17:49:57 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 17:50:05 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.c","password":"testab101"} 
+2022-12-13 17:50:05 info [utils/auth.js]: No account found for for skarmakar7302@conestogac.on.c 
+2022-12-13 17:50:05 info [routes/authHandler.js]: control was here 

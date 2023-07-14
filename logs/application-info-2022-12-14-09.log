@@ -1,0 +1,49 @@
+2022-12-14 09:07:53 info [server.js]: Server is running at 3000 
+2022-12-14 09:07:53 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-14 09:10:00 info [server.js]: Server is running at 3000 
+2022-12-14 09:10:00 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-14 09:11:33 info [server.js]: Server is running at 3000 
+2022-12-14 09:11:33 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-14 09:12:27 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-14 09:12:28 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"user","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-14 09:12:28 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-14 09:12:28 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:12:42 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:12:48 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:15:20 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:15:27 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:42:54 info [routes/authHandler.js]: {"email":"sajju123@live.in","password":"sajju123"} 
+2022-12-14 09:42:54 error [utils/auth.js]: Cannot read properties of null (reading '_doc') 
+2022-12-14 09:42:54 info [routes/authHandler.js]: control was here 
+2022-12-14 09:44:13 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"12345"} 
+2022-12-14 09:44:13 info [utils/auth.js]: Wrong password for gautamrupesh401@gmail.com 
+2022-12-14 09:44:13 info [routes/authHandler.js]: control was here 
+2022-12-14 09:44:21 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"Titanic@123"} 
+2022-12-14 09:44:21 error [utils/auth.js]: Cannot read properties of null (reading '_doc') 
+2022-12-14 09:44:21 info [routes/authHandler.js]: control was here 
+2022-12-14 09:45:39 info [utils/auth.js]: gautamrupesh401@gmail.com 
+2022-12-14 09:45:39 info [utils/utils.js]: gautamrupesh401@gmail.com 
+2022-12-14 09:45:40 info [utils/utils.js]: {"accepted":["gautamrupesh401@gmail.com"],"rejected":[],"envelopeTime":316,"messageTime":422,"messageSize":869,"response":"250 2.0.0 OK  1671029141 y18-20020a5e8712000000b006e0338b60a5sm6303663ioj.22 - gsmtp","envelope":{"from":"myfoodlabsinfo@gmail.com","to":["gautamrupesh401@gmail.com"]},"messageId":"<e4746f83-1fd1-310b-e310-ed1a2e4c21a9@gmail.com>"} 
+2022-12-14 09:45:59 info [routes/authHandler.js]: gautamrupesh401@gmail.com 
+2022-12-14 09:45:59 info [routes/authHandler.js]: d4a26eb64ce700f0b65e7bcb30745084e3a25a22 
+2022-12-14 09:45:59 info [routes/authHandler.js]: {"_id":"6399e193eb23e3bc3a6abc15","email":"gautamrupesh401@gmail.com","password":"$2b$10$i44se63MRTmpgVfsd5vHtOziWqTeZndf42psZaQyOa8OsvL03JTsC","isConfirmed":false,"verificationToken":"d4a26eb64ce700f0b65e7bcb30745084e3a25a22","role":"user","status":1,"__v":0} 
+2022-12-14 09:45:59 info [routes/authHandler.js]: verified 
+2022-12-14 09:46:19 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"123456789"} 
+2022-12-14 09:46:19 info [utils/auth.js]: {"_id":"6399e1a7eb23e3bc3a6abc19","email":"gautamrupesh401@gmail.com","role":"user","user_id":"6399e193eb23e3bc3a6abc15","firstname":"","lastname":"","contactno":"","__v":0} 
+2022-12-14 09:46:19 info [utils/auth.js]: Login successfull for gautamrupesh401@gmail.com 
+2022-12-14 09:46:19 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:47:12 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"123456789"} 
+2022-12-14 09:47:12 info [utils/auth.js]: {"_id":"6399e1a7eb23e3bc3a6abc19","email":"gautamrupesh401@gmail.com","role":"admin","user_id":"6399e193eb23e3bc3a6abc15","firstname":"","lastname":"","contactno":"","__v":0} 
+2022-12-14 09:47:12 info [utils/auth.js]: Login successfull for gautamrupesh401@gmail.com 
+2022-12-14 09:47:13 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:50:07 info [server.js]: Server is running at 3000 
+2022-12-14 09:50:07 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-14 09:50:19 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:51:10 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:51:42 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:53:34 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:53:42 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-14 09:57:02 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-14 09:57:02 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"user","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-14 09:57:02 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-14 09:57:02 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

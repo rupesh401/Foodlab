@@ -1,0 +1,26 @@
+2022-12-16 09:07:52 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"12345"} 
+2022-12-16 09:07:52 info [routes/authHandler.js]: control was here 
+2022-12-16 09:07:52 info [utils/auth.js]: Wrong password for gautamrupesh401@gmail.com 
+2022-12-16 09:08:00 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"123456789"} 
+2022-12-16 09:08:00 info [utils/auth.js]: {"_id":"6399e1a7eb23e3bc3a6abc19","email":"gautamrupesh401@gmail.com","role":"admin","user_id":"6399e193eb23e3bc3a6abc15","firstname":"","lastname":"","contactno":"","__v":0} 
+2022-12-16 09:08:00 info [utils/auth.js]: Login successfull for gautamrupesh401@gmail.com 
+2022-12-16 09:08:01 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:28 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:37 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-16 09:53:37 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"admin","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-16 09:53:37 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-16 09:53:38 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:50 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"123456789"} 
+2022-12-16 09:53:50 info [utils/auth.js]: {"_id":"6399e1a7eb23e3bc3a6abc19","email":"gautamrupesh401@gmail.com","role":"user","user_id":"6399e193eb23e3bc3a6abc15","firstname":"","lastname":"","contactno":"","__v":0} 
+2022-12-16 09:53:50 info [utils/auth.js]: Login successfull for gautamrupesh401@gmail.com 
+2022-12-16 09:53:51 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:21 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:22 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:43 info [routes/authHandler.js]: {"email":"gautamrupesh401@gmail.com","password":"123456789"} 
+2022-12-16 09:54:43 info [utils/auth.js]: {"_id":"6399e1a7eb23e3bc3a6abc19","email":"gautamrupesh401@gmail.com","role":"user","user_id":"6399e193eb23e3bc3a6abc15","firstname":"","lastname":"","contactno":"","__v":0} 
+2022-12-16 09:54:43 info [utils/auth.js]: Login successfull for gautamrupesh401@gmail.com 
+2022-12-16 09:54:43 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:54 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-16 09:54:54 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"admin","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-16 09:54:54 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-16 09:54:55 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

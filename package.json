@@ -1,0 +1,49 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of Capstone project",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suparno1998/Capstone-web-dev-fall-22.git"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "Suparno Karmakar, Vasu Chopra, Rupesh Gautam, Mohammad Sajid Sheikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Suparno1998/Capstone-web-dev-fall-22/issues"
+  },
+  "homepage": "https://github.com/Suparno1998/Capstone-web-dev-fall-22#readme",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "jsdoc": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.8.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "sha1": "^1.1.1",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

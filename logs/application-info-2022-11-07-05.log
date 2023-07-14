@@ -1,0 +1,20 @@
+2022-11-07 05:03:37 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 05:03:38 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 05:21:23 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 05:21:23 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 05:23:42 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 05:23:43 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 05:25:08 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 05:25:08 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 05:27:35 info : Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority {}
+2022-11-07 05:27:35 info : Server is running at 3000 {}
+2022-11-07 05:43:17 info : {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} {}
+2022-11-07 05:43:17 info : Login successfull for skarmakar7302@conestogac.on.ca {}
+2022-11-07 05:43:56 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 05:43:56 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 05:46:24 info : {"email":"admin@gmail.com","password":"admin"} {}
+2022-11-07 05:46:24 info : Wrong password for admin@gmail.com {}
+2022-11-07 05:46:34 info : {"email":"admin@gmail.com","password":"12345"} {}
+2022-11-07 05:46:34 info : Login successfull for admin@gmail.com {}
+2022-11-07 05:49:04 info : Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority {}
+2022-11-07 05:49:04 info : Server is running at 3000 {}

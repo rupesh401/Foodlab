@@ -1,0 +1,2 @@
+2022-12-13 13:26:08 info [server.js]: Server is running at 3000 
+2022-12-13 13:26:08 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 

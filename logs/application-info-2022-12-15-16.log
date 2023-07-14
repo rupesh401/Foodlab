@@ -1,0 +1,8 @@
+2022-12-15 16:11:36 info [server.js]: Server is running at 3000 
+2022-12-15 16:11:36 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-15 16:11:58 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-15 16:12:21 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-15 16:12:21 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"admin","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-15 16:12:21 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-15 16:12:43 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-15 16:13:48 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

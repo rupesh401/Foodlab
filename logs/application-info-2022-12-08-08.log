@@ -1,0 +1,7 @@
+2022-12-08 08:38:16 info [server.js]: Server is running at 3000 
+2022-12-08 08:38:16 info [utils/dbhandler.js]: Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority 
+2022-12-08 08:38:46 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-08 08:40:45 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-08 08:42:39 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-08 08:44:03 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-08 08:44:46 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

@@ -1,0 +1,8 @@
+2022-12-16 09:08:01 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:28 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:38 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:53:51 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:21 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:22 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:43 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-16 09:54:55 error [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

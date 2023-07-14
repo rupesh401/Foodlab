@@ -1,0 +1,12 @@
+2022-12-13 15:05:03 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-13 15:05:03 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"admin","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-13 15:05:03 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-13 15:05:03 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 15:45:08 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 15:45:10 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 15:45:13 info [routes/authHandler.js]: {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} 
+2022-12-13 15:45:14 info [utils/auth.js]: {"_id":"63744ebd103e7415b8f377b5","email":"skarmakar7302@conestogac.on.ca","role":"admin","user_id":"63744e95103e7415b8f377b1","firstname":"Suparno","lastname":"test","contactno":"test","__v":0} 
+2022-12-13 15:45:14 info [utils/auth.js]: Login successfull for skarmakar7302@conestogac.on.ca 
+2022-12-13 15:45:14 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 15:49:54 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 
+2022-12-13 15:51:33 info [routes/authHandler.js]: Cannot read properties of null (reading 'exp') 

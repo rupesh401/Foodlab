@@ -1,0 +1,8 @@
+2022-11-07 01:12:17 info : Database connected to mongodb+srv://root:xFNqHuDfLCRbbpKy@cluster.nfwhf.mongodb.net/capstonedb?retryWrites=true&w=majority {}
+2022-11-07 01:12:17 info : Server is running at 3000 {}
+2022-11-07 01:13:05 info : {"email":"ssuparno1998@gmail.com","password":"testab101"} {}
+2022-11-07 01:13:05 info : Login successfull for ssuparno1998@gmail.com {}
+2022-11-07 01:53:01 info : {"email":"skarmakar7302@conestogac.on.ca","password":"testab101"} {}
+2022-11-07 01:53:02 info : Login successfull for skarmakar7302@conestogac.on.ca {}
+2022-11-07 01:57:18 info : test-endpoint works {}
+2022-11-07 01:57:57 info : test-endpoint works {}
