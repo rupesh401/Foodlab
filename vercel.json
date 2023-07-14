@@ -1,6 +1,6 @@
 {
     "builds": [{
-        "src": "./frontend/public",
+        "src": "./frontend/public/webpack.config.js",
         "use": "@vercel/node"
     }],
     "routes": [{
