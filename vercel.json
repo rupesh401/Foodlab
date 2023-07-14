@@ -1,6 +1,6 @@
 {
     "builds": [{
-        "src": "./server.js",
+        "src": "./frontend/public/main.bundle.js",
         "use": "@vercel/node"
     }],
     "routes": [{
